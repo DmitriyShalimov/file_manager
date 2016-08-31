@@ -1,4 +1,4 @@
-package ua.shalimov.filemanager.logic;
+package ua.shalimov.filemanager.service;
 
 
 public class FileSpecification {

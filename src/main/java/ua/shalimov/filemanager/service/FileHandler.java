@@ -1,4 +1,4 @@
-package ua.shalimov.filemanager.logic;
+package ua.shalimov.filemanager.service;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
